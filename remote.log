@@ -1,1 +1,2 @@
+6ed8a5fe-9401-4874-95f7-6f033f5b3014 bucket=openneuro-private datacenter=US encryption=none exporttree=yes fileprefix=ds000239/ host=s3.amazonaws.com name=s3-PRIVATE partsize=1GiB port=80 storageclass=STANDARD type=S3 timestamp=1531880664.353493556s
 8a82e5db-57d2-4b5a-bd88-6899b7db16ab bucket=openneuro.org datacenter=US encryption=none exporttree=yes fileprefix=ds000239/ host=s3.amazonaws.com name=s3-PUBLIC partsize=1GiB port=80 storageclass=STANDARD type=S3 timestamp=1531880651.62363717s
